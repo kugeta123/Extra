@@ -1,2 +1,1 @@
-# Extra
-Extra
+# Please download all files and save them into one folder. If you have BlueJ that's better, please click BlueJ icon. Btw, please change the test text file to your local directory in the analyzer file. 
