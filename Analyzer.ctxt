@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Analyzer
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=string\ row
+comment2.target=java.lang.String[][]\ array(java.lang.String,\ int)
+comment3.params=array\ row
+comment3.target=java.lang.String[][]\ twoDarray(java.lang.String[],\ int)
+comment4.params=string\ row
+comment4.target=java.lang.String[]\ array_alter(java.lang.String,\ int)
+comment5.params=array
+comment5.target=java.lang.String[]\ Last(java.lang.String[])
+numComments=6

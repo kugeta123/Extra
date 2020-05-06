@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=lexical
+comment1.params=str\ last
+comment1.target=int\ check_lexical(java.lang.String[][],\ java.lang.String[])
+comment2.params=stringA\ stringB
+comment2.target=java.lang.String\ check_sam(java.lang.String,\ java.lang.String)
+numComments=3

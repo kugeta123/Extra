@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=syntax
+comment1.params=str\ last
+comment1.target=int\ check_syntax(java.lang.String[][],\ java.lang.String[])
+comment2.params=str
+comment2.target=java.lang.String\ check_number(java.lang.String)
+comment3.params=str
+comment3.target=java.lang.String\ check_string(java.lang.String)
+numComments=4
